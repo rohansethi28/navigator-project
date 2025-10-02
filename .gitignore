@@ -1,0 +1,14 @@
+# Ignore Maven build folder
+target/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore temporary logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore lock files created by editors
+*.LCK*
